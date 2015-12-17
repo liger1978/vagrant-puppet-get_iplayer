@@ -2,7 +2,7 @@ class profile::get_iplayer(
 ){
   case $::osfamily {
     'RedHat': {
-       package { 'epel-release': }
+      package { 'epel-release': }
     }
   }
   class{ 'get_iplayer':
