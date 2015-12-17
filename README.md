@@ -32,7 +32,7 @@ vagrant up ubuntu1404
 ````
 
 get_iplayer PVR should then be available in your computer's web browser:
-http://iplayer-centos6.box/
-http://iplayer-centos7.box/
-http://iplayer-ubuntu1204.box/
-http://iplayer-ubuntu1404.box/
+ - http://iplayer-centos6.box/
+ - http://iplayer-centos7.box/
+ - http://iplayer-ubuntu1204.box/
+ - http://iplayer-ubuntu1404.box/
