@@ -1,4 +1,4 @@
-# vagrant-puppet_get_iplayer
+# vagrant-puppet-get_iplayer
 A Vagrant environment for testing
 [puppet-get_iplayer](https://github.com/sevendials/puppet-get_iplayer)
 
