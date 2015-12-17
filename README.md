@@ -19,7 +19,7 @@ vagrant plugin install vagrant-cachier
 vagrant plugin install vagrant-hostmanager
  
 # Clone repo:
-git clone https://github.com/liger1978/vagrant-puppet_get_iplayer.git
+git clone https://github.com/liger1978/vagrant-puppet-get_iplayer.git
 
 # Start and provision the Vagrant environment:
 cd vagrant-puppet-get_iplayer
