@@ -14,8 +14,8 @@ commands:
 # Install recommended plugins (if you want them):
 #   vagrant-cachier will cache the Linux packages locally for later use
 vagrant plugin install vagrant-cachier
-#   vagrant-hostmanager will allow you to resolve the VM hostname ("gitlab.box")
-#   from your computer
+#   vagrant-hostmanager will allow you to resolve the VM hostname
+#   (eg "http://iplayer-centos6.box") from your computer
 vagrant plugin install vagrant-hostmanager
  
 # Clone repo:
