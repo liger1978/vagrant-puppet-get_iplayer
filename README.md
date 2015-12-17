@@ -24,7 +24,7 @@ git clone https://github.com/liger1978/vagrant-puppet_get_iplayer.git
 # Start and provision the Vagrant environment:
 cd vagrant-puppet-get_iplayer
 
-# Start box of you choice:
+# (start box of your choice)
 vagrant up centos6
 vagrant up centos7
 vagrant up ubuntu1204
